@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{FJi0:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),s=a.n(t),c=a("7vrA"),l=a("Bl7J");n.default=function(){return s.a.createElement(l.a,null,s.a.createElement(c.a,{className:"news-types",fluid:!0}))}}}]);
+//# sourceMappingURL=component---src-pages-news-js-36c0ae31536d1ccc38a8.js.map
